@@ -12,7 +12,7 @@ using json = nlohmann::json;
 using namespace std;
 
 auto API_BASE_URL = "https://api.pirateweather.net";
-auto API_KEY      = "0nz7oJROjYDoH4sL2MzO6YGB5OTq5pqx";
+auto API_KEY      = "YOUR_API_KEY";
 
 class WeatherFrame : public wxFrame {
 public:
